@@ -113,8 +113,8 @@ body {
     background-repeat: no-repeat;
 }
 
-#jumboarnold {
-    background-image: url('arnold.jpg');
+#jumbophone {
+    background-image: url('phone.jpg');
     background-size: cover;
     background-position: center center;
     min-height: 300px;
@@ -136,9 +136,9 @@ body {
     line-height: 2.5em;
 }
 
-#jumbocosmos h1 {
+#jumbophone h1 {
     font-size: 50px;
-    color: white;
+    color: #334;
     padding-top: 55px;
     line-height: 2.5em;
 }
@@ -151,6 +151,15 @@ body {
     padding: 0px 10px;
     top: 0;
     
+}
+
+#listItem a {
+    padding: 5px 0;
+    text-decoration: none;
+    font-size: 18px;
+    color: #334;
+    display: block;
+
 }
 
 #sideNav {
